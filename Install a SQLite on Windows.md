@@ -19,5 +19,5 @@ Perform the following steps to install a SQLite on Windows:
 5. Add `c:\sqlite` to your Path variable, as shown below:
 ![](https://github.com/MeantForChange/SQLite-Installation-Guide/blob/master/img-folder/setenvironmentvariable.png)
 
-6. Open the Command Prompt, type `sqlite3`, and  press enter. You should see the following output:
+6. Open the Command Prompt, type `sqlite3`, and  press Enter. You should see the following output:
 ![](https://github.com/MeantForChange/SQLite-Installation-Guide/blob/master/img-folder/commandoutput.png)
